@@ -143,17 +143,17 @@ endif
 " vim recovery files
 " swap files (.swp) in a common location
 " // means use the file's full path
-set dir=~/.vim/_swap//
+set dir=~/.vim-tmp/swap//
 
 " backup files (~) in a common location if possible
 " set backup
 set backup
-set backupdir=~/.vim/_backup/,~/tmp,.
+set backupdir=~/.vim-tmp/backup/,~/tmp,.
 
 " turn on undo files, put them in a common location
 " set undofile
 set undofile
-set undodir=~/.vim/_undo/
+set undodir=~/.vim-tmp/undo/
 
 " }}}
 " Bindings {{{
