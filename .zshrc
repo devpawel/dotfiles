@@ -84,7 +84,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# added by Anaconda3 4.4.0 installer
+# added by Anaconda3 installer
 export PATH="/home/pawel/anaconda3/bin:$PATH"
 
 # enable powerline

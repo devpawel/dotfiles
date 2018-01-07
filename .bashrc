@@ -124,5 +124,5 @@ if [ -x /usr/bin/mint-fortune ]; then
      /usr/bin/mint-fortune
 fi
 
-# added by Anaconda3 4.4.0 installer
+# added by Anaconda3 installer
 export PATH="/home/pawel/anaconda3/bin:$PATH"
